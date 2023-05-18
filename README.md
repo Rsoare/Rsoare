@@ -28,7 +28,7 @@
 
 <table align="center">
   <tr>
-    
+    <td><a href="https://github.com/Rsoare/kenzieVelopers_API"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=rsoare&repo=kenzieVelopers_API&theme=radical"/><a/></td>
     <td><a href="https://github.com/Rsoare/movies_typeORM_api"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=rsoare&repo=movies_typeORM_api&theme=radical"/><a/></td>
   </tr>
   <tr>
