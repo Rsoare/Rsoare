@@ -36,7 +36,7 @@
     <td><a href="https://github.com/Rsoare/kenzie-burguer-v2-template-Rsoare"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=kenzie-burguer-v2-template-Rsoare&theme=radical&readme-star"/><a/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Rsoare/react-entrega-kenzie-hub-Rsoare"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=react-entrega-kenzie-hub-Rsoare&theme=radical&readme-star"/><a/></td>
+    <td><a href="https://github.com/Rsoare/react-entrega-kenzie-hub-Rsoare"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=react-entrega-kenzie-hub-Rsoare&theme=radical&readme-stars"/><a/></td>
     <td><a href="https://github.com/Tech-Zone-T15/Tech-Zone-WebSite"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Tech-Zone-T15&repo=Tech-Zone-WebSite&theme=radical&readme-star" /><a/>   </td>
    </tr>
 </table>
