@@ -28,16 +28,16 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/Rsoare/kenzieVelopers_API"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=rsoare&repo=kenzieVelopers_API&theme=radical&readme-stats"/><a/></td>
-    <td><a href="https://github.com/Rsoare/movies_typeORM_api"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=rsoare&repo=movies_typeORM_api&theme=radical&readme-stats"/><a/></td>
+    <td><a href="https://github.com/Rsoare/kenzieVelopers_API"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=rsoare&repo=kenzieVelopers_API&theme=radical&readme-star"/><a/></td>
+    <td><a href="https://github.com/Rsoare/movies_typeORM_api"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=rsoare&repo=movies_typeORM_api&theme=radical&readme-star"/><a/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Rsoare/kimoveis_API"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=kimoveis_API&theme=radical&readme-stats" /><a/></td>
-    <td><a href="https://github.com/Rsoare/kenzie-burguer-v2-template-Rsoare"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=kenzie-burguer-v2-template-Rsoare&theme=radical&readme-stats"/><a/></td>
+    <td><a href="https://github.com/Rsoare/kimoveis_API"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=kimoveis_API&theme=radical&readme-star" /><a/></td>
+    <td><a href="https://github.com/Rsoare/kenzie-burguer-v2-template-Rsoare"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=kenzie-burguer-v2-template-Rsoare&theme=radical&readme-star"/><a/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Rsoare/react-entrega-kenzie-hub-Rsoare"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=react-entrega-kenzie-hub-Rsoare&theme=radical&readme-stats" target="_blank" /><a/></td>
-    <td><a href="https://github.com/Tech-Zone-T15/Tech-Zone-WebSite"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Tech-Zone-T15&repo=Tech-Zone-WebSite&theme=radical&readme-stats" target="_blank"/><a/></td>
+    <td><a href="https://github.com/Rsoare/react-entrega-kenzie-hub-Rsoare"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Rsoare&repo=react-entrega-kenzie-hub-Rsoare&theme=radical&readme-star"/><a/></td>
+    <td><a href="https://github.com/Tech-Zone-T15/Tech-Zone-WebSite"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=Tech-Zone-T15&repo=Tech-Zone-WebSite&theme=radical&readme-star" /><a/>   </td>
    </tr>
 </table>
 
