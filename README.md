@@ -7,7 +7,7 @@
 <div>
 <img style="height: auto; width: 49%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Rsoare&theme=radical" />
 &nbsp;
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rsoare&theme=radical&layout=compact&hide=shell&langs_count=10" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rsoare&theme=radical&layout=compact&hide=shell&langs_count=10" /></div>
 </div>
 
 ## Tecnologias 
@@ -47,6 +47,6 @@
   
   <a href = "mailto:rihan145@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rihansoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
 </div>
 
